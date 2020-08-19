@@ -1,3 +1,5 @@
-##audiotrigger helemt
-#just run
+#audiotrigger helemt
+
+*just run*
+
 $  ./runme.sh
