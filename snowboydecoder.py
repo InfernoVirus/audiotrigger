@@ -35,7 +35,7 @@ class RingBuffer(object):
 
 
 def fileexec():
-    os.system("touch /home/abhi/Desktop/file1")
+    os.system("touch $HOME/desktop/file1")
 
 def play_audio_file(fname=DETECT_DING):
     """Simple callback function to play a wave file. By default it plays
