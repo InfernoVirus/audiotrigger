@@ -1,5 +1,5 @@
-#audiotrigger helemt
+# audiotrigger helemt
 
 *just run*
 
-$  ./runme.sh
+> ./runme.sh
