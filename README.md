@@ -1,6 +1,6 @@
 # audiotrigger helmet
 
-git clone 
+git clone https://github.com/abhijeetmohanan/audiotrigger.git
 
 change the audio file
 
