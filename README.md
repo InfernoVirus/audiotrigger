@@ -1,10 +1,14 @@
-# audiotrigger helemt
+# audiotrigger helmet
+
+git clone 
+
+change the audio file
 
 *just run*
 
-> ./runme.sh
+` $ ./runme.sh`
 
-## then say 
->  Snowboy
+ > then say 
+ ` Snowboy `
 
-### a file with name file1 should be present on your desktop
+# a file with name file1 should be present on your desktop
